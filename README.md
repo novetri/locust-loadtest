@@ -18,6 +18,7 @@ pip install --upgrade pip
 Create script locust
 
 Run locust
+
 locust
 
 locust -f locust_files/my_locust_file.py
